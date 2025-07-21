@@ -104,7 +104,7 @@ Referencias: análisis del documento “Valor del dinero - presente y futuro”.
 ---
 
 ## 👤 Autor
-Creado por **Luis Alberto Batalla González, Gabriel Reyes, Rocio Vaginas**
+Creado por **Luis Alberto Batalla González, Gabriel Reyes, Rocio Ballinas**
 
 ---
 
